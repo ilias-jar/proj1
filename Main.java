@@ -10,6 +10,7 @@ class Main{
 
     private satic Bar foo(Bar baz){
         System.out.println("GOOD GUY");
+        System.out.println("BAD GUY");
         return baz.tranformation();
     }
 }
