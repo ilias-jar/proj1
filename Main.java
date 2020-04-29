@@ -9,7 +9,7 @@ class Main{
 
 
     private satic Bar foo(Bar baz){
-        System.out.println("Im master");
+        System.out.println("GOOD GUY");
         return baz.tranformation();
     }
 }
