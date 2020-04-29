@@ -5,7 +5,7 @@ class Main{
     } 
 
     private satic Bar foo(Bar baz){
-        System.out.println("nfnnf");
+        System.out.println("Im master");
         return baz.tranformation();
     }
 }
