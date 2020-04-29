@@ -4,6 +4,10 @@ class Main{
         System.out.println("KEK2");
     } 
 
+    IM CRAZY, I BROKE MASTER'S CODE 
+    UAHAHAHAHAHA!!!!
+
+
     private satic Bar foo(Bar baz){
         System.out.println("nfnnf");
         return baz.tranformation();
